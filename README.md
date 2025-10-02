@@ -1,1 +1,3 @@
 # parbaudes_darbs
+GitHub ir uz Git balstīts repozitoriju mitināšanas serviss, kurā ir pieejamas Git funkcijas - versiju pārvalde un pirmkoda vadība. Programmētāji to izmanto, jo viņi ar GitHub palīdzību var kopā strādāt ar vienu projektu, ja nepieciešams, atgriezties pie pagājušās versijas un ērti un droši glabāt savus kodus, kā arī pārskatīt citus servisā izvietotus kodus, lai no tiem mācīties un gūt idejas savas programmas pilnveidošanai.
+Projektam var būt svarīgi pielietot licenci, ja programmētājs grib nostiprināt savas izstrādātāja autortiesības vai norādīt sava koda rediģēšanas un par to paziņošanas noteikumus.
